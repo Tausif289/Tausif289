@@ -11,8 +11,6 @@
   <a href="https://www.geeksforgeeks.org/profile/ansartau04jf"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00d4ff&style=flat" />
-
 </div>
 
 ---
