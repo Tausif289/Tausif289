@@ -121,15 +121,7 @@ Monitor calories, meals, water intake and physical activity with interactive cha
 - 📜 Professional Certification in **Data Structures and Algorithms using Java**
 - 🥇 Finalist, **HackWithUttarPradesh**
 
-## 🎯 Competitive Programming
 
-<div align="center">
-
-<img height="160" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap" />
-
-</div>
-
----
 
 ## 🌱 Currently
 
