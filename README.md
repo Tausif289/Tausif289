@@ -19,7 +19,7 @@
 
 - 🎓 Final-year **B.Tech CSE** student at **Dr. Ambedkar Institute of Technology for Divyangjan, Kanpur** (2023 – 2027) | CGPA: **8.1 / 10**
 - 💼 Former **MERN Stack Developer Intern** at **Maincrafts Technology**
-- 🤖 I build **AI-powered full-stack applications** using Gemini AI, Next.js and the MERN stack
+- 🤖 I build **AI-powered full-stack applications** using Gemini AI, Next.js and the MERN stack and mean stack.
 - 🧠 Solved **850+ coding problems** | LeetCode max rating **1618** | CodeChef max rating **1248**
 - 🏆 Finalist at **HackWithUttarPradesh**
 - 📫 Reach me at **ansartausif991@gmail.com**
