@@ -81,7 +81,7 @@
 Resume optimization, interview preparation and personalized career guidance powered by Gemini AI, with secure Clerk authentication and PostgreSQL-backed storage.
 
 **Tech:** `Next.js` `Clerk` `Tailwind CSS` `Gemini AI` `PostgreSQL`
-🔗 [Live Demo](YOUR_LIVE_LINK) • [GitHub](YOUR_REPO_LINK)
+🔗 [Live Demo](https://careerpilot-ai-alpha.vercel.app/) • [GitHub](https://github.com/Tausif289/careerpilotAI)
 
 ### 🌾 Farmer Crop Advisory
 > Data-driven farming platform with **85% accuracy** in insights
@@ -89,7 +89,7 @@ Resume optimization, interview preparation and personalized career guidance powe
 A MERN-based platform using Google Cloud Generative AI for crop recommendation, soil health and crop health insights, plus real-time weather forecasts, price tracking, chatbot support and government scheme suggestions.
 
 **Tech:** `React` `Node.js` `MongoDB` `TypeScript` `Tailwind CSS`
-🔗 [Live Demo](YOUR_LIVE_LINK) • [GitHub](YOUR_REPO_LINK)
+🔗 [Live Demo](https://farmer-bl1m.onrender.com/) • [GitHub](https://github.com/Tausif289/former_crop_advisory)
 
 ### 🥗 Diet Tracking App
 > Full-stack nutrition and fitness tracker
@@ -97,7 +97,7 @@ A MERN-based platform using Google Cloud Generative AI for crop recommendation, 
 Monitor calories, meals, water intake and physical activity with interactive charts, a responsive UI and dark/light mode, backed by a scalable Node.js and MongoDB API.
 
 **Tech:** `Angular` `Node.js` `Express.js` `MongoDB` `Chart.js`
-🔗 [Live Demo](YOUR_LIVE_LINK) • [GitHub](YOUR_REPO_LINK)
+🔗 [Live Demo](https://deittracker.vercel.app/login) • [GitHub](https://github.com/Tausif289/deitapp)
 
 ---
 
